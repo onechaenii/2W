@@ -1,0 +1,54 @@
+
+
+h1{
+  text-align: center;
+}
+
+#list{
+  width:700px;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.do{
+  margin-bottom: 20px;
+  padding : 10px 10px;
+  letter-spacing: 1px;
+  float: inherit;
+}
+
+
+
+  p {
+  letter-spacing: 0.7px;
+  line-height: 1.75;
+}
+
+.text{
+  word-break: break-word;
+
+}
+
+
+.narrow {
+  padding: 20px;
+  border: 1px solid;
+  display: table;
+  max-width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  width: 45%;
+
+
+          }
+.f {
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 80px;
+  width: 30%;
+}
